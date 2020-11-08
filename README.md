@@ -1,10 +1,22 @@
-# Estudo de criação de componentes base com REACT + TYPESCRITP + REACT-HOOK-FORM
+### :construction: :construction_worker: README em Construção :construction_worker: :construction:
+
+# Estudo de criação de componentes base  
+REACT + TYPESCRITP + REACT-HOOK-FORM
 
 ![](https://github.com/TiagoCiceri/react-hook-form/blob/master/myComponents.png)
-## Componentes criados
+
+## :star: Componentes criados
 ### `input`
 ### `checkbox`
 ### `radio`
+
+### :gear: Tecnologias
+  * Node.js
+  * React
+
+### :hammer_and_wrench: Ferramentas utilizadas
+  * VSCode ( editor de código )
+  * Git / GitHub ( controle de versão )
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
