@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Estudo de criação de componentes base com REACT + TYPESCRITP + REACT-HOOK-FORM
+
+![](https://github.com/TiagoCiceri/react-hook-form/blob/master/myComponents.png)
+## Componentes criados
+### `input`
+### `checkbox`
+### `radio`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
